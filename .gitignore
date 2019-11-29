@@ -1,5 +1,5 @@
 # Virtual environment
-storyTeller
+venv
 
 # Python cache
 *.pyc
