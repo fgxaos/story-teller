@@ -1,0 +1,9 @@
+# Virtual environment
+storyTeller
+
+# Python cache
+*.pyc
+
+# Test samples 
+pdf_to_speech/test.pdf
+test_audio.mp3
