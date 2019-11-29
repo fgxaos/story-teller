@@ -7,3 +7,6 @@ venv
 # Test samples 
 pdf_to_speech/test.pdf
 test_audio.mp3
+
+# Local save files
+users.json
